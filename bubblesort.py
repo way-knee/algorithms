@@ -13,5 +13,4 @@ def bubble_sort(A):
         if flag == 0:
             return A
             break
-    return A
 
